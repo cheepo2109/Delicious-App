@@ -1,6 +1,6 @@
 ## What is this?
 
-Just you wait folks!
+Simple application to learn Node.js, MongoDB, Express, PassportJS and Pug
 
 ## Sample Data
 
