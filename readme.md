@@ -1,6 +1,7 @@
 ## What is this?
 
-Simple application to learn Node.js, MongoDB, Express, PassportJS and Pug
+Simple application to learn Node.js, MongoDB, Express, PassportJS and Pug.
+Based on the tutorial of Wes Bos
 
 ## Sample Data
 
